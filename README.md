@@ -1,1 +1,1 @@
-"# Alteryx-Weekly-Challenges" 
+# Alteryx-Weekly-Challenges
